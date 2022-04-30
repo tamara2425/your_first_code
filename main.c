@@ -3,7 +3,15 @@ int main()
   int i;
   for (i = 0; i < 10; i++)
   {
-    printf("School\n");
+    printf("Hello, School\n" * 10);
+    
+    # or
+    
+    
+    for i in range (32):
+    
+    # in a c like language
+    for (int i = 0; i <32; 1++)
   }
   return 0;
 }
