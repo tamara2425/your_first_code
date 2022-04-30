@@ -3,7 +3,7 @@ int main()
   int i;
   for (i = 0; i < 10; i++)
   {
-    printf("Hello, School\n" * 10);
+    printf("Hello, School\n" * 32);
     
     # or
     
